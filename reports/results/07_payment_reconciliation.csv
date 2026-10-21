@@ -1,0 +1,5 @@
+reconciliation_status,orders,item_total_brl,paid_total_brl
+matched_within_0_02_brl,98385,15805205.3,15805204.73
+missing_items,775,,162591.95
+difference_over_0_02_brl,280,38204.48,41075.44
+missing_payment,1,143.46,

@@ -1,0 +1,3 @@
+route_type,eligible_orders,avg_freight_brl,freight_to_goods_pct,late_pct
+interstate,60961,26.55,18.18,8.14
+same_state,34234,15.19,12.84,4.56

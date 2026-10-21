@@ -1,0 +1,3 @@
+dispatch_group,eligible_orders,late_orders,late_pct,avg_delivery_days
+after_shipping_deadline,8695,1814,20.86,19.61
+within_shipping_deadline,87257,4717,5.41,11.89
